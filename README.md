@@ -1,2 +1,2 @@
 # Seed
-sample
+Wallet recovery phrase
